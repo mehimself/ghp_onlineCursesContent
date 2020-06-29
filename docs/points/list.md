@@ -1,0 +1,4 @@
+keyPoint
+averageWorkingMemory
+humanWorkingMemory
+writeMaterialFortHumanWorkingMemory

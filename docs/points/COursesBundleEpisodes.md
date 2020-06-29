@@ -1,0 +1,1 @@
+Courses bundle [__episodes__](https://github.com/mehimself/onlineCourses_content/blob/master/episodes/README.md) together and connect the learning content of [__episodes__](https://github.com/mehimself/onlineCourses_content/blob/master/episodes/README.md) with high level [__materials__](https://github.com/mehimself/onlineCourses_content/blob/master/material/README.md). 
