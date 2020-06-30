@@ -1,4 +1,0 @@
-keyPoint
-averageWorkingMemory
-humanWorkingMemory
-writeMaterialFortHumanWorkingMemory
