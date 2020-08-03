@@ -1,1 +1,0 @@
-informationDesignOfOnlineCourses.md
